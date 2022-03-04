@@ -1,11 +1,11 @@
 {
     "blogs" : [
         {
-            "title" : "Imp Works",
+            "title" : "Imp's Works",
             "author" : "Ira Gati",
-            "date" : "2022/02/20",
-            "categories" : ["general"],
-            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/imp_works.md"
+            "date" : "2022/03/04",
+            "categories" : ["general", "coding"],
+            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/imps_works.md"
         }
     ]
 }

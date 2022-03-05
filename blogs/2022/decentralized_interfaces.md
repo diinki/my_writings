@@ -1,4 +1,5 @@
 <h1 id="decentralized_interfaces">Decentralized Interfaces</h1>
+
 A wallet for a blockchain doesn't actually "store" any funds or assets, it simply acts
 as an interface to the network that it's connected to.
 

@@ -1,11 +1,18 @@
 {
     "blogs" : [
         {
+            "title" : "Decentralized Interfaces",
+            "author" : "Ira Gati",
+            "date" : "2022/03/05",
+            "categories" : ["general", "web3"],
+            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/decentralized_interfaces.md"
+        },
+        {
             "title" : "Imp's Works",
             "author" : "Ira Gati",
             "date" : "2022/03/04",
             "categories" : ["general", "coding"],
-            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/imps_works.md"
+            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/imps_works.md"
         }
     ]
 }

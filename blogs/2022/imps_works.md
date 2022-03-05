@@ -4,7 +4,7 @@ It's a web-app that I made which is sort of a continuation of my blogs at [kayow
 
 Kayowo is my game-dev project, but since I already had the website I also added a blog to it, it has way
 more blogs than this website atm; since it's been a thing for longer, but I will reserve kayowo.net to only
-have game-dev & game-dev project related content from now on. imp.works is now my true personal website!
+have game-dev & game-dev project related content from now imp.works is now my true personal website!
 
 This place will contain my writings, a collections of the projects I'm involved with, and some of my more
 artistic creations!
@@ -22,7 +22,7 @@ This has slightly higher network & computation constraints, but allows me to do 
 I chose to not create everything from scratch like I did with the kayowo website, and instead use the Vue 3 front-end
 framework. Along with Vue, I use a markdown parser to parse markdown to HTML (that way I can write logs in markdown).
 
-An ontop of all that, I've made my own design & theming! All art here is my own, including the cozy 3D render in the
+And ontop of all that, I've made my own design & theming! All art here is my own, including the cozy 3D render in the
 background... It's one of my personal favorites despite the fact that I made it ~3 years ago, I just love the atmosphere...
 <p align="center" style="display: flex; justify-content: space-between;">
     <img align="center" width="49%" src="https://data.kayowo.net/Resources/Images/LogResources/FarewellImg.png"/>
@@ -44,3 +44,13 @@ All that being said, the website is still really early, has lots of things that 
 I've been working on lots of projects recently, [xavax.io](https://xavax.io), the multi-chain [vulture wallet](https://vulturewallet.net), as well as some personal game-dev related projects!
 
 I want to focus on creating useful things not just for myself, but to many other people this year *2022 :p*.
+
+With all that said 'n' done, I think I'll just continue doing whatever and seeing whatever happens, no big plans; just going to build stuff... And write more now that I've made this place, my next writing will probably have lots to do with conscious states & psychedelics, ganna be fun!
+
+## End
+
+Web 3.0 is all about decentralization *imo*, decentralize the financial system, decentralize the addition, removal & editing of laws, decentralize companies (internally), and create tools & interfaces which allow anyone to interact with these systems; make it extremely difficult for authoritarianism to grow.
+
+Preservation of **the** individual is extremely important, hopefully I'll have enough time to write about that.
+
+Cya~

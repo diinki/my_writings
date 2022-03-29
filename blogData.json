@@ -1,6 +1,13 @@
 {
     "blogs" : [
         {
+            "title" : "Vulture's Vision",
+            "author" : "Ira Gati",
+            "date" : "2022/03/29",
+            "categories" : ["general", "web3", "coding", "projects"],
+            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/vulture's_vision.md"
+        },
+        {
             "title" : "Decentralized Interfaces",
             "author" : "Ira Gati",
             "date" : "2022/03/05",

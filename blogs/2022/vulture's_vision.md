@@ -14,6 +14,7 @@ Here are some poorly cropped samples of the Vulture-extension front-end:
     <img src="https://raw.githubusercontent.com/diinki/my_writings/main/assets/images/vultureSendTab.png" width="40%">
     <img src="https://raw.githubusercontent.com/diinki/my_writings/main/assets/images/vultureAssetsTab.png" width="39.2%">
 </div>
+
 These pics show that the idea with the front-end is minimalism, I'm personally aiming
 for a style that resonates with me; which is no bs. Every piece of information the
 UI shows is supposed to have a very specific task & should perform said task in a

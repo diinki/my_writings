@@ -2,21 +2,21 @@
     "blogs" : [
         {
             "title" : "Vulture's Vision",
-            "author" : "Ira Gati",
+            "author" : "Ira",
             "date" : "2022/03/29",
             "categories" : ["general", "web3", "coding", "projects"],
             "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/vulture's_vision.md"
         },
         {
             "title" : "Decentralized Interfaces",
-            "author" : "Ira Gati",
+            "author" : "Ira",
             "date" : "2022/03/05",
             "categories" : ["general", "web3"],
             "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/decentralized_interfaces.md"
         },
         {
             "title" : "Imp's Works",
-            "author" : "Ira Gati",
+            "author" : "Ira",
             "date" : "2022/03/04",
             "categories" : ["general", "coding"],
             "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/imps_works.md"

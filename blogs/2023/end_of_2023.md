@@ -20,11 +20,18 @@ as far as I possibly can from those years; even though they did shape me.
 
 ## New website
 
-Fifth official edition of my personal website!! I've added some legacy blogs that
+Fourth official edition of my personal website!! I've added some legacy blogs that
 I wrote a few years ago as well, even tho it's kinda painful re-visiting them.
 
 This one is written with typescript/react, designed by myself n everything from
 scratch; not much to say, still quite WIP actually... feel free 2 have a look around!
+
+For this iteration I've decided to create a calm, lush, retro theme. I want it to be
+simple, yet not afraid of being detailed in the right places. Most details will be
+added in later updates though...
+
+I'll be honest, so far I really like this UI/UX, it does lack some personality, but
+this will all be added and improved upon in the future.
 
 ## Writing tendencies
 

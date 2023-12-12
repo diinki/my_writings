@@ -26,7 +26,7 @@ will have in the future fortifies the illusion of linear time.
 I really dislike perception of linear time because at the end there is always death, whether you commit suicide
 or die in a way that was out of your control, there is always death. No matter how long we may
 be able to extend our lives in the future. It's obvious, but for important reasons I have a very big need to
-think about in the current time, perhaps because I feel so close to it in the current moment; and that's
+think about it the current time, perhaps because I feel so close to it in the current moment; and that's
 writing even about the effects psychedelics have had on me.
 
 So what is the point of any of this anyways? I’ve suppose I've wanted to leave behind a digital ghost, one with art

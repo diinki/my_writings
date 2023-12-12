@@ -1,32 +1,46 @@
 {
-    "blogs" : [
-        {
-            "title" : "State Of Life, 2023",
-            "author" : "Diinki, Ira",
-            "date" : "2023/02/6",
-            "categories" : ["general", "personal"],
-            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2023/state_of_life_2023.md"
-        },
-        {
-            "title" : "Vulture's Vision",
-            "author" : "Diinki, Ira",
-            "date" : "2022/03/29",
-            "categories" : ["general", "web3", "coding", "projects"],
-            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/vulture's_vision.md"
-        },
-        {
-            "title" : "Decentralized Interfaces",
-            "author" : "Diinki, Ira",
-            "date" : "2022/03/05",
-            "categories" : ["general", "web3"],
-            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/decentralized_interfaces.md"
-        },
-        {
-            "title" : "Imp's Works",
-            "author" : "Diinki, Ira",
-            "date" : "2022/03/04",
-            "categories" : ["general", "coding"],
-            "markdownTextURI" : "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/imps_works.md"
-        }
-    ]
+  "blogs": [
+    {
+      "title": "End of 2023",
+      "author": "Diinki",
+      "date": "2023/12/12",
+      "categories": ["general", "personal"],
+      "markdownTextURI": "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2023/end_of_2023.md"
+    },
+    {
+      "title": "State Of Life, 2023",
+      "author": "Diinki",
+      "date": "2023/02/6",
+      "categories": ["general", "personal"],
+      "markdownTextURI": "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2023/state_of_life_2023.md"
+    },
+    {
+      "title": "Vulture's Vision",
+      "author": "Diinki",
+      "date": "2022/03/29",
+      "categories": ["general", "web3", "coding", "projects"],
+      "markdownTextURI": "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/vulture's_vision.md"
+    },
+    {
+      "title": "Decentralized Interfaces",
+      "author": "Diinki",
+      "date": "2022/03/05",
+      "categories": ["general", "web3"],
+      "markdownTextURI": "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/decentralized_interfaces.md"
+    },
+    {
+      "title": "Imp's Works",
+      "author": "Diinki",
+      "date": "2022/03/04",
+      "categories": ["general", "coding"],
+      "markdownTextURI": "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2022/imps_works.md"
+    },
+    {
+      "title": "Forever and all eternity",
+      "author": "Diinki",
+      "date": "2020/11/26",
+      "categories": ["general", "personal"],
+      "markdownTextURI": "https://raw.githubusercontent.com/diinki/my_writings/main/blogs/2020/forever_and_all_eternity.md"
+    }
+  ]
 }
